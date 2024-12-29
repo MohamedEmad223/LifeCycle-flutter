@@ -1,0 +1,6 @@
+{
+    "cSpell.enableFiletypes": [
+        "!dart"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
